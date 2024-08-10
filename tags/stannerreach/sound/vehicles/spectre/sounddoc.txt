@@ -1,0 +1,6 @@
+tool.exe sounds-single-layer stannerreach\sound\vehicles\spectre\close vehicle_engine
+tool.exe sounds-single-layer stannerreach\sound\vehicles\spectre\open vehicle_engine
+tool.exe sound-single stannerreach\sound\vehicles\spectre\spectre_engine_l\track1\loop\loop[gol].wav vehicle_engine
+tool.exe sound-single stannerreach\sound\vehicles\spectre\spectre_engine_l\track1\in\in[in4l].wav vehicle_engine
+tool.exe sound-single stannerreach\sound\vehicles\spectre\spectre_engine_l\track1\out\out[out3l].wav vehicle_engine
+*Same for engine_r just replace the l with r
